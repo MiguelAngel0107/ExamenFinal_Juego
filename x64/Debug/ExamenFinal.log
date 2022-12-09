@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Enemy.h(42,78): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Enemy.h(42,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Enemy.h(43,79): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Enemy.h(43,67): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Enemy.h(61,73): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Enemy.h(61,61): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Paracaidista.h(34,68): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\Paracaidista.h(35,68): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\MyForm.h(27,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ExamenFinal.vcxproj -> C:\Users\Miguel\source\repos\ExamenFinal\x64\Debug\ExamenFinal.exe

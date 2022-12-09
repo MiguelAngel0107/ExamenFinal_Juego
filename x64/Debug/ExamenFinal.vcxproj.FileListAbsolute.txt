@@ -1,0 +1,4 @@
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\x64\Debug\ExamenFinal.vcxproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\x64\Debug\ExamenFinal.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\x64\Debug\ExamenFinal.MyForm.resources
+C:\Users\Miguel\source\repos\ExamenFinal\ExamenFinal\x64\Debug\ExamenFinal.vcxproj.GenerateResource.cache
